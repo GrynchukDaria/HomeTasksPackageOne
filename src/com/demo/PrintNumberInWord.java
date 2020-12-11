@@ -1,7 +1,7 @@
 package com.demo;
 
 import java.util.Scanner;
-
+//test
 public class PrintNumberInWord {
     public static void main(String args[]) {
         System.out.println("Enter an Integer number from 1 to 6:");
